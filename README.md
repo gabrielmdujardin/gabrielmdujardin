@@ -10,8 +10,9 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gabrielmdujardin/gabrielmdujardin/output/github-contribution-grid-snake.svg?v=2" alt="GitHub contribution snake" />
+  <img src="https://raw.githubusercontent.com/gabrielmdujardin/gabrielmdujardin/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
 
 
 
