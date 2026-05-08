@@ -4,10 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ADD8E6&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gabriel+Mendes+Dujardin;I+am+studying+software+engineering+at+UniEvangélica;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabrielmdujardin&show_icons=true&count_private=true&hide_border=true&title_color=ADD8E60&icon_color=ADD8E6&text_color=ADD8E6&bg_color=0d1117" alt="Gabriel Mendes Dujardin github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmdujardin&layout=compact&hide_border=true&title_color=ADD8E6&text_color=ADD8E6&bg_color=0d1117" />
-</div>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/gabrielmdujardin/gabrielmdujardin/output/github-contribution-grid-snake.svg" alt="snake animation" />
@@ -21,7 +18,7 @@
 </p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/gabriel-dujardin-870188231/" target="_blank">
+  <a href="https://www.linkedin.com/in/www.linkedin.com/in/gabrielmdujardin/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
@@ -44,6 +41,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&labelColor=0D1117)&nbsp;
+![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-0D1117?style=for-the-badge&logo=linuxmint&labelColor=0D1117)&nbsp;
 
  
 ### Other Knowledge:
