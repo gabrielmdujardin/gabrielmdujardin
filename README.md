@@ -23,7 +23,7 @@
   </a>
 
   <a href="https://portifoliogabrielmdujardin.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+    <img src="https://img.shields.io/badge/-Portfólio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>
 </div>
  
